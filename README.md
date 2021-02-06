@@ -1,5 +1,5 @@
 # LightChannelsForSkylights
-UE4 Support light channels for sky lights
+UE4.25 Support light channels for sky lights
 
 1. 替换UE_4.25\Engine\Shaders\Private目录下的ReflectionEnvironmentPixelShader.usf
 
